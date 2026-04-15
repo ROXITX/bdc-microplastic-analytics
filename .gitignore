@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+*.egg-info/
+
+# Large data files — tracked via Git LFS or excluded
+*.csv
+microplastic_pollution_large_dataset.csv
+ocean_sensor_dataset.csv
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Spark logs / temp
+derby.log
+metastore_db/
+spark-warehouse/
