@@ -238,9 +238,9 @@ def build_report():
         set_cell_bg(cell, "DBEAFE")   # light blue header
 
     members = [
-        ("1", "Rohit Sharma",      "23MIA1104"),
-        ("2", "Team Member 2",     "23MIAXXXX"),
-        ("3", "Team Member 3",     "23MIAXXXX"),
+        ("1", "Rohith Thayalan",   "23MIA1104"),
+        ("2", "Sandeep",           "23MIA1040"),
+        ("3", "Sastika",           "23MIA1047"),
     ]
     for sno, name, reg in members:
         row = table.add_row().cells

@@ -104,6 +104,6 @@ pip install pyspark streamlit plotly networkx python-louvain streamlit-folium py
 
 | Name | Register Number |
 |------|----------------|
-| Rohit Sharma | 23MIA1104 |
-| Team Member 2 | 23MIAXXXX |
-| Team Member 3 | 23MIAXXXX |
+| Rohith Thayalan | 23MIA1104 |
+| Sandeep | 23MIA1040 |
+| Sastika | 23MIA1047 |
